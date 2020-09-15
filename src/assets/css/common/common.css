@@ -1,0 +1,13 @@
+button,
+a {
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button,
+a:hover {
+    opacity: 0.8;
+}
